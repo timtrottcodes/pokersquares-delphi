@@ -21,3 +21,14 @@ Straight - Score 10
 Three of a Kind - Score 6
 Two Pairs - Score 4
 One Pair - Score 2
+
+## Assets
+* Background images - I have no idea where they came from, something back pre-2005. Any issues let me know and I'll reemove them.
+* Cards.dll - Original Microsoft DLL which used to be distributed with Windows but since Windows 7 it was dropped. Included here since nobody should be running Windows 7 or earlier.
+* Sounds from Pixabay
+** BLIP2.wav - [u_f1ee7vf7na from Pixabay](https://pixabay.com/users/u_f1ee7vf7na-32174781/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=131856) 
+** CLICK1.WAV - [u_u4pf5h7zip from Pixabay](https://pixabay.com/users/u_u4pf5h7zip-50459877/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=345983) 
+** dice.wav - [freesound_community from Pixabay](https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=35979) 
+** HIT3.WAV - [Pixabay](https://pixabay.com/sound-effects/metal-hit-sound-effect-241374/) 
+** shuffle.wav - [freesound_community from Pixabay](https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=94662) 
+** WINLEVEL.WAV - [freesound_community from Pixabay](https://pixabay.com/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=6297) 
